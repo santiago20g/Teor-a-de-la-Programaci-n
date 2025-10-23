@@ -1,4 +1,4 @@
-![Logo](https://univercimas.com/wp-content/uploads/2021/04/Universidad-Nacional-de-Loja-UNL-300x300.png)
+![Logo](https://unl.edu.ec/sites/default/files/logogris%20copia.png)
 
 # 💻 ***Teoría de la Programación***
 
