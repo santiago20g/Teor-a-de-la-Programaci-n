@@ -1,4 +1,4 @@
-# 💻 ***Teoría de la Programación***
+# 💻 ***Teoría de la Programación***                 ![Logo](https://th.bing.com/th/id/R.d4ca59c1a8bf0c2c4c5208c894d887ce?rik=BehGWe6W8Iao6Q&riu=http%3a%2f%2fwww.unl.edu.ec%2fsites%2fdefault%2ffiles%2finline-images%2flogogris.png&ehk=%2f9XhunvRgrwYcUt0ANZUPhImuVyjRZ%2bQQk8Q8Wh6ZBU%3d&risl=&pid=ImgRaw&r=0.png)
 ## 📘 Portafolio Digital de Aprendizaje  
 
 ---
