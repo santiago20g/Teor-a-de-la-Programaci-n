@@ -1,4 +1,4 @@
-![Logo](https://unl.edu.ec/sites/default/files/logogris%20copia.png)
+ㅤ                                                                                             ![Logo](https://unl.edu.ec/sites/default/files/logogris%20copia.png)
 
 # 💻 ***Teoría de la Programación***
 
