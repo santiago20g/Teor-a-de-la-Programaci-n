@@ -1,4 +1,7 @@
-ㅤ                                                                                             ![Logo](https://unl.edu.ec/sites/default/files/logogris%20copia.png)
+ㅤ                                     <p align="center">
+  <img src="https://unl.edu.ec/sites/default/files/logogris%20copia.png" alt="Logo UNL" width="300">
+</p>
+                                                       
 
 
 #  **Universidad Nacional de Loja**
