@@ -5,7 +5,7 @@
 
 ### 🧩 *Unidad 1*
 ####    Temas vistos en la unidad:
-####    [Temas](diapositivasUnidad1.md)
+####     https://drive.google.com/drive/folders/1ozbtBLpTmS3603VczlsCPK2jflmAiO90?usp=sharing
 ####
 ####
 ####
