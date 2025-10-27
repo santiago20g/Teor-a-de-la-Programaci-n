@@ -31,11 +31,16 @@
 #####  Link de la Actividad: 
 #####  https://drive.google.com/file/d/14FDy1J-bC7IHWq7mQKCvUivUkX1hMe5U/view?usp=sharing
 ---
-####   6.  
+####   6.  Codigos realizados en Visual Studio Code
+#####  Objetivo:
+#####  Link de la Actividad:
+#####
 ---
-####   6.
----
-####   8.
+####   7. Reflexiones y conclusiones
+#####  Objetivo:
+#####  Link de la Actividad:
+#####
+
 
 
 
