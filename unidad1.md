@@ -19,8 +19,8 @@
 ---
 ####    3. Debugging Challenge: “Cazadores de Bugs”
 #####   Objetivo: Desarrollar habilidades de detección y corrección de errores en algoritmos secuenciales escritos en pseudocódigo, justificando cada ajuste y validando la solución modificada mediante la ejecución del algoritmo. 
-#####   
-#####   
+#####   Link de la Tarea:
+#####   https://drive.google.com/file/d/1b5K8L_Xz0mfpSBWobleR8IrI6j_PYyGJ/view?usp=sharing
 ---
 ####    4.  Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo. 
 #####   Objetivo:  Familiarizar al estudiante con la herramienta PSeInt y desarrollar su primer algoritmo en pseudocódigo, aplicando estructuras secuenciales básicas. 
