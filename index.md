@@ -1,7 +1,7 @@
 ㅤ                                                                                             ![Logo](https://unl.edu.ec/sites/default/files/logogris%20copia.png)
 
 
-# 💻 **Universidad Nacional de Loja**
+#  **Universidad Nacional de Loja**
 
 # 💻 **Teoría de la Programación**
 
