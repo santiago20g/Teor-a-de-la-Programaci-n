@@ -4,7 +4,7 @@
 ---
 
 ### 🧩 *Unidad 1*
-####    Temas de vistos en la unidad:
+####    Temas vistos en la unidad:
 ####
 ####
 ####
