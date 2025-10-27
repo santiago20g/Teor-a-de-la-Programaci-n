@@ -12,7 +12,7 @@
 ### 🧩 Unidad 1: Fundamentos de la Programación  
 📖 Conceptos básicos, algoritmos y estructuras de control.  
 
-[Unidad1](unidadㅤ1.md)
+[Unidad1](unidad1.md)
 
 
 ---
