@@ -32,7 +32,7 @@
 #####   Link de la Actividad: 
 #####   https://drive.google.com/file/d/14FDy1J-bC7IHWq7mQKCvUivUkX1hMe5U/view?usp=sharing
 ---
-####    6.  Codigos realizados en Visual Studio Code
+####    6.  Codigos realizados en Visual Studio Code Usando el Lenguaje de Programación C
 #####   Objetivo:
 #####   Link de la Actividad:
 #####
