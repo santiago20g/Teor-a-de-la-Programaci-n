@@ -2,23 +2,23 @@
 
 ---
 
-###     Temas vistos en la unidad 1:
-#####   Link de los Temas: 
+###     __Temas vistos en la unidad 1:__
+#####  __Link de los Temas:__
 #####   https://drive.google.com/drive/folders/1LNvDggg_dmoPzyRiE9DEKXAz0TS23sIX?usp=sharing
 ---
-###    Actividades relizadas en toda la unidad:
+###   **Actividades relizadas en toda la unidad:**
 
-####   1.  Programación por Bloques
-#####  Objetivo:  
-##### Link de la Tarea: 
+####   **1.  Programación por Bloques**
+#####  **Objetivo:**  Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
+##### **Link de la Tarea:**
 ---
-####   2.  Exploración y uso de herramientas digitales para pseudocódigo y diagramas de flujo.
+####   2.  **Exploración y uso de herramientas digitales para pseudocódigo y diagramas de flujo.**
 #####  Objetivo:  Reconocer y aplicar herramientas digitales para la representación de algoritmos en pseudocódigo y diagramas de flujo, fortaleciendo la comprensión del proceso de solución de problemas computacionales.
 #####  Link de la Actividad:
 ##### https://drive.google.com/file/d/1vMAriyU_HHd7WvFAuLXaUs3QfQGMwgXW/view?usp=sharing
 ---
-####   3. 
-#####
+####   3. Debugging Challenge: “Cazadores de Bugs”
+#####  Objetivo: Desarrollar habilidades de detección y corrección de errores en algoritmos secuenciales escritos en pseudocódigo, justificando cada ajuste y validando la solución modificada mediante la ejecución del algoritmo. 
 #####
 #####
 ---
