@@ -1,7 +1,7 @@
 ㅤ                                                                                             ![Logo](https://unl.edu.ec/sites/default/files/logogris%20copia.png)
 
 
-# 💻 *Universidad*
+# 💻 *Universidad Nacional de Loja*
 
 # 💻 ***Teoría de la Programación***
 
@@ -11,7 +11,7 @@
 
 ### 🧩 Unidad 1: Fundamentos de la Programación  
 📖 Conceptos básicos, algoritmos y estructuras de control.  
-🔹 **Temas clave:** Variables, tipos de datos, operadores, condicionales, bucles.
+
 [Unidad1](unidad1.md)
 
 
