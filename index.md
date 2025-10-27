@@ -3,13 +3,13 @@
 
 # 💻 **Universidad Nacional de Loja**
 
-# 💻 ***Teoría de la Programación***
+# 💻 **Teoría de la Programación**
 
 ## 📘 Portafolio Digital de Aprendizaje  
 
 ---
 
-### 🧩 Unidad 1: Fundamentos de la Programación  
+### 🧩 **Unidad 1: Fundamentos de la Programación**
 📖 Conceptos básicos, algoritmos y estructuras de control.  
 
 [Unidad1](unidad1.md)
