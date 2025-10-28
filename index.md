@@ -15,7 +15,7 @@
 ###    Nombre:</b> Richard Santiago Guamán Sánchez
 ###    Carrera: Computación - Segundo Ciclo
 ###    Asignatura: Teoría de la Programación
-###    Periodo Academico: Septiembre 2025 - Febrero 2026
+###    Período Académico: Septiembre 2025 - Febrero 2026
 ###    Docente: Ing. Lissette Geoconda López Faicán
 
 ---
