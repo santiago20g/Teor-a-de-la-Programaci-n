@@ -32,30 +32,30 @@ Link de la Unidad 1:
 
 ---
 
-### ⚙️ Unidad 2: Estructuras y Funciones  
+### ⚙️ ***Unidad 2: Estructuras y Funciones***  
 🧠 Desarrollo modular de programas mediante funciones y procedimientos.  
 
 
 ---
 
-### 🧱 Unidad 3: Programación Avanzada  
+### 🧱 ***Unidad 3: Programación Avanzada***
 🚀 Aplicación de conceptos avanzados en resolución de problemas reales.  
 
 
 ---
 
-### 🧭 Conclusiones  
+### 🧭 ***Conclusiones***
 💬 Reflexión final sobre el proceso de aprendizaje y los logros alcanzados.  
 ✨ Enfatiza la importancia del pensamiento lógico y la resolución de problemas.
 
 ---
 
-### 📚 Referencias  
+### 📚 ***Referencias***  
 🔗 Fuentes consultadas, materiales de apoyo y documentación oficial.
 
 ---
 
-### 🤖 Uso de la IA Generativa  
+### 🤖 ***Uso de la IA Generativa***  
 🧬 Aplicación de herramientas como **ChatGPT** y **GitHub Copilot** en el proceso de aprendizaje.  
 💡 Cómo la inteligencia artificial puede apoyar el desarrollo de código y la comprensión teórica.
 
