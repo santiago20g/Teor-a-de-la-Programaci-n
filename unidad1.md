@@ -1,16 +1,16 @@
-#   🧩 ***Unidad 1***
+# <p align="center"><strong>🧩 Unidad 1 </strong></p>
 
 ---
 
-###     Temas vistos en la unidad 1
-#####   Link de los Temas:
-#####   https://drive.google.com/drive/folders/1LNvDggg_dmoPzyRiE9DEKXAz0TS23sIX?usp=sharing
+###    <p align="center"><strong>Temas vistos en la unidad 1</strong></p>
+####   Link de los Temas:
+####   https://drive.google.com/drive/folders/1LNvDggg_dmoPzyRiE9DEKXAz0TS23sIX?usp=sharing
 ---
 ###     Actividades relizadas en toda la unidad:
 
-####    1.  Programación por Bloques
-#####   Objetivo:  Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
-#####   Link de la Tarea:
+###    1.  Programación por Bloques
+####   Objetivo:  Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
+####   Link de la Tarea:
 ---
 ####    2.  Exploración y uso de herramientas digitales para pseudocódigo y diagramas de flujo.
 #####   Objetivo:  Reconocer y aplicar herramientas digitales para la representación de algoritmos en pseudocódigo y diagramas de flujo, fortaleciendo la comprensión del proceso de solución de problemas computacionales.
