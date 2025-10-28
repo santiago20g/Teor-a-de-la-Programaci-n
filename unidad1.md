@@ -40,15 +40,15 @@ Revisar e interpretar tutoriales oficiales de instalación de lenguajes de progr
 ---
 ###    6.  Pseudocódigos realizados en PSeInt
 ####   Objetivo:
-
+Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desarrollar habilidades de razonamiento y planificar soluciones a problemas.
 ####   Link de la Actividad:
-####
+####   https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing
 ---
 ###    7.  Códigos realizados en Visual Studio Code Usando el Lenguaje de Programación C
 ####   Objetivo:
 Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean las instrucciones que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código.
 ####   Link de la Actividad:
-####   https://drive.google.com/file/d/15jb9ohzTHzBr8nA6vv41IQ3oKJzog378/view?usp=sharing
+####   https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing
 ---
 ###    8. Reflexiones y conclusiones
 ####   Objetivo:
