@@ -60,7 +60,8 @@ Usar seudocódigo ayuda a pensar con orden y lógica. Es una herramienta que ens
 
 Al usar el lenguaje C nos ayuda a comprender la base de la programación. Con Visual Studio Code, se puede aprender de forma práctica y entender mejor cómo la computadora compila el lenguaje humano a lenguaje maquina para poder resolver problemas complejos.
 
-#### 
+#### Regresar al Inicio
+[Inicio](index.md)
 
 
 
