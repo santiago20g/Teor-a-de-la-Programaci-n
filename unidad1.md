@@ -38,13 +38,19 @@ Revisar e interpretar tutoriales oficiales de instalación de lenguajes de progr
 ####   Link de la Actividad: 
 ####   https://drive.google.com/file/d/14FDy1J-bC7IHWq7mQKCvUivUkX1hMe5U/view?usp=sharing
 ---
-###    6.  Codigos realizados en Visual Studio Code Usando el Lenguaje de Programación C
+###    6.  Pseudocódigos realizados en PSeInt
+####   Objetivo:
+
+####   Link de la Actividad:
+####
+---
+###    7.  Códigos realizados en Visual Studio Code Usando el Lenguaje de Programación C
 ####   Objetivo:
 Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean las instrucciones que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código.
 ####   Link de la Actividad:
 ####   https://drive.google.com/file/d/15jb9ohzTHzBr8nA6vv41IQ3oKJzog378/view?usp=sharing
 ---
-###    7. Reflexiones y conclusiones
+###    8. Reflexiones y conclusiones
 ####   Objetivo:
 
 ####   Link de la Actividad:
