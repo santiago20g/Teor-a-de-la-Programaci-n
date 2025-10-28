@@ -14,7 +14,7 @@ Comprender y aplicar la programación por bloques para crear proyectos simples, 
 ####   Link de la Actividad:
 ####   https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing
 ---
-###    2.  Exploración y uso de herramientas digitales para pseudocódigo y diagramas de flujo.
+###    2.  Exploración y uso de herramientas digitales para pseudocódigo y diagramas de flujo
 ####   Objetivo:  
 Reconocer y aplicar herramientas digitales para la representación de algoritmos en pseudocódigo y diagramas de flujo, fortaleciendo la comprensión del proceso de solución de problemas computacionales.
 ####   Link de la Actividad:
@@ -26,7 +26,7 @@ Desarrollar habilidades de detección y corrección de errores en algoritmos sec
 ####   Link de la Actividad:
 ####   https://drive.google.com/file/d/1b5K8L_Xz0mfpSBWobleR8IrI6j_PYyGJ/view?usp=sharing
 ---
-###    4.  Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo. 
+###    4.  Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo 
 ####   Objetivo:  
 Familiarizar al estudiante con la herramienta PSeInt y desarrollar su primer algoritmo en pseudocódigo, aplicando estructuras secuenciales básicas. 
 ####   Link de la Actividad: 
