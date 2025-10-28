@@ -12,7 +12,7 @@
 
 ---
 ###    Nombre: 
-Richard Santiago Guamán Sánchez 
+Richard Santiago Guamán Sánchez
 ###    Carrera: 
 Computación - Segundo Ciclo
 ###    Asignatura: 
