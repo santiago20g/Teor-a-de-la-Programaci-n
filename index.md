@@ -2,14 +2,14 @@
   <img src="https://unl.edu.ec/sites/default/files/logogris%20copia.png" alt="Logo UNL" width="300">
 </p>
                                                        
-<p align="center"><strong>Universidad Nacional de Loja</strong></p>
+<p align="center"><strong>🎓 Universidad Nacional de Loja</strong></p>
 
 
 #      <p align="center"><strong>Universidad Nacional de Loja</strong></p>
 
 #      <p align="center"><strong> 💻 Teoría de la Programación</strong></p>
 
-##     📘  Portafolio Digital de Aprendizaje  
+##     📘 Portafolio Digital de Aprendizaje  
 
 ---
 ###    Nombre:</b> Richard Santiago Guamán Sánchez
@@ -56,3 +56,5 @@ Link de la Unidad 1:
 💡 Cómo la inteligencia artificial puede apoyar el desarrollo de código y la comprensión teórica.
 
 ---
+
+
