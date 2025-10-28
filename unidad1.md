@@ -40,7 +40,7 @@ Revisar e interpretar tutoriales oficiales de instalación de lenguajes de progr
 ---
 ###    6.  Codigos realizados en Visual Studio Code Usando el Lenguaje de Programación C
 ####   Objetivo:
-
+Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean las instrucciones que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código.
 ####   Link de la Actividad:
 ####
 ---
