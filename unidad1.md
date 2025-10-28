@@ -54,7 +54,8 @@ Validar la lógica del algoritmo mediante pruebas de escritorio.
 
 Implementar y ejecutar la solución en un lenguaje de programación. 
 ####   ● Link de la Actividad: 
-####   https://drive.google.com/file/d/1az3psHxNKFRZoLhOaPKD6FGnFVDiAKwu/view?usp=sharing
+####   https://drive.google.com/file/d/1az3psHxNKFRZoLhOaPKD6FGnFVDiAKwu/view?usp=sharing (Informe)
+####   https://drive.google.com/file/d/1AC0GLVwwTyyE2iL4_WjaKTkBOicGbr-x/view?usp=sharing (Códigos)
 
 ---
 
@@ -69,8 +70,7 @@ Reconocer y aplicar herramientas digitales para la representación de algoritmos
 ####   ● Objetivo: 
 Revisar e interpretar tutoriales oficiales de instalación de lenguajes de programación, con el fin de familiarizarse con el entorno de desarrollo, documentando el proceso de instalación en un informe estructurado.
 ####   ● Link de la Actividad: 
-####   https://drive.google.com/file/d/14FDy1J-bC7IHWq7mQKCvUivUkX1hMe5U/view?usp=sharing (Informe)
-####   https://drive.google.com/file/d/1AC0GLVwwTyyE2iL4_WjaKTkBOicGbr-x/view?usp=sharing (Códigos)
+####   https://drive.google.com/file/d/14FDy1J-bC7IHWq7mQKCvUivUkX1hMe5U/view?usp=sharing
 
 ---
 
