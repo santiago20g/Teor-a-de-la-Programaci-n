@@ -7,15 +7,22 @@
 
 #      <p align="center"><strong>Universidad Nacional de Loja</strong></p>
 
-#  **<p align="center"><strong> 💻 Teoría de la Programación</strong></p>**
+#      <p align="center"><strong> 💻 Teoría de la Programación</strong></p>
 
-## 📘  Portafolio Digital de Aprendizaje  
+##     📘  Portafolio Digital de Aprendizaje  
+
+---
+###    **Nombre:** Richard Santiago Guamán Sánchez
+###    **Carrera:** Computación - Segundo Ciclo
+###    **Asignatura:** Teoría de la Programación
+###    **Periodo Academico:** Septiembre 2025 - Febrero 2026
+###    **Docente:** Ing. Lissette Geoconda López Faicán
 
 ---
 
 ### 🧩 ***Unidad 1: Fundamentos de la Programación***
 📖 Conceptos básicos, algoritmos y estructuras de control.  
-
+Link de la Unidad 1:
 [Unidad1](unidad1.md)
 
 
@@ -23,13 +30,13 @@
 
 ### ⚙️ Unidad 2: Estructuras y Funciones  
 🧠 Desarrollo modular de programas mediante funciones y procedimientos.  
-🔹 **Temas clave:** Funciones, paso de parámetros, ámbito de variables, estructuras de datos.
+
 
 ---
 
 ### 🧱 Unidad 3: Programación Avanzada  
 🚀 Aplicación de conceptos avanzados en resolución de problemas reales.  
-🔹 **Temas clave:** Arreglos, punteros, manejo de archivos, buenas prácticas de codificación.
+
 
 ---
 
