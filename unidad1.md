@@ -6,7 +6,7 @@
 ####   Link de los Temas:
 ####   https://drive.google.com/drive/folders/1LNvDggg_dmoPzyRiE9DEKXAz0TS23sIX?usp=sharing
 ---
-###     <p align="center"><strong>Actividades Realizadas en Toda la Unidad:</strong></p>
+###    <p align="center"><strong>Actividades Realizadas en Toda la Unidad:</strong></p>
 
 ###    1.  Programación por Bloques
 ####   Objetivo:  
@@ -42,7 +42,7 @@ Revisar e interpretar tutoriales oficiales de instalación de lenguajes de progr
 ####   Objetivo:
 Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean las instrucciones que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código.
 ####   Link de la Actividad:
-####
+####   https://drive.google.com/file/d/15jb9ohzTHzBr8nA6vv41IQ3oKJzog378/view?usp=sharing
 ---
 ###    7. Reflexiones y conclusiones
 ####   Objetivo:
