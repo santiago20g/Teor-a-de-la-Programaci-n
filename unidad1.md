@@ -7,12 +7,25 @@
 ####   https://drive.google.com/drive/folders/1LNvDggg_dmoPzyRiE9DEKXAz0TS23sIX?usp=sharing
 ---
 ###    <p align="center"><strong>Actividades Realizadas en Toda la Unidad:</strong></p>
+---
+###    ACD - Aprendizaje Contacto con el Docente
 
+---
+###    APE - Aprendizaje Práctico Experimental
 ###    1.  Programación por Bloques
 ####   Objetivo:  
 Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
 ####   Link de la Actividad:
 ####   https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing
+###    3. Debugging Challenge: “Cazadores de Bugs”
+####   Objetivo: 
+Desarrollar habilidades de detección y corrección de errores en algoritmos secuenciales escritos en pseudocódigo, justificando cada ajuste y validando la solución modificada mediante la ejecución del algoritmo. 
+####   Link de la Actividad:
+####   https://drive.google.com/file/d/1b5K8L_Xz0mfpSBWobleR8IrI6j_PYyGJ/view?usp=sharing
+---
+###    AA - Aprendizaje Autónomo
+---
+
 ---
 ###    2.  Exploración y uso de herramientas digitales para pseudocódigo y diagramas de flujo
 ####   Objetivo:  
@@ -20,11 +33,7 @@ Reconocer y aplicar herramientas digitales para la representación de algoritmos
 ####   Link de la Actividad:
 ####   https://drive.google.com/file/d/1vMAriyU_HHd7WvFAuLXaUs3QfQGMwgXW/view?usp=sharing
 ---
-###    3. Debugging Challenge: “Cazadores de Bugs”
-####   Objetivo: 
-Desarrollar habilidades de detección y corrección de errores en algoritmos secuenciales escritos en pseudocódigo, justificando cada ajuste y validando la solución modificada mediante la ejecución del algoritmo. 
-####   Link de la Actividad:
-####   https://drive.google.com/file/d/1b5K8L_Xz0mfpSBWobleR8IrI6j_PYyGJ/view?usp=sharing
+
 ---
 ###    4.  Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo 
 ####   Objetivo:  
