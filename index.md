@@ -12,11 +12,11 @@
 ##     📘  Portafolio Digital de Aprendizaje  
 
 ---
-###    **Nombre:** Richard Santiago Guamán Sánchez
-###    **Carrera:** Computación - Segundo Ciclo
-###    **Asignatura:** Teoría de la Programación
-###    **Periodo Academico:** Septiembre 2025 - Febrero 2026
-###    **Docente:** Ing. Lissette Geoconda López Faicán
+###    Nombre:</b> Richard Santiago Guamán Sánchez
+###    <b>Carrera:</b> Computación - Segundo Ciclo
+###    <b>Asignatura:</b> Teoría de la Programación
+###    <b>Periodo Academico:</b> Septiembre 2025 - Febrero 2026
+###    <b>Docente:</b> Ing. Lissette Geoconda López Faicán
 
 ---
 
