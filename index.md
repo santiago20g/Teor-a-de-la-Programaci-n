@@ -4,9 +4,9 @@
 
 
 
-#      <p align="center"><strong>🎓 Universidad Nacional de Loja</strong></p>
+#      <p align="center"><strong>🎓 Universidad Nacional de Loja 🎓</strong></p>
 
-#      <p align="center"><strong> 💻 Teoría de la Programación</strong></p>
+#      <p align="center"><strong>💻 Teoría de la Programación 💻</strong></p>
 
 ##     📘 Portafolio Digital de Aprendizaje  
 
