@@ -51,8 +51,16 @@ Aprender a usar Visual Studio Code para escribir y probar programas en el lengua
 ####   https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing
 ---
 ###    8. Reflexiones y conclusiones
-####   Link de la Actividad:
-####   
+####   Conclusiones
+Pseudocódigo es una forma fácil de entender cómo funciona un programa antes de escribir código real (Python, C, Java, etc..), este permite organizar las ideas y planificar los pasos para resolver un problema de manera clara y tantas complicaciones.
+Usar seudocódigo ayuda a pensar con orden y lógica. Es una herramienta que enseña a razonar paso a paso, lo cual es muy útil para aprender a programar correctamente.
+💻 Conclusión sobre programar en C con Visual Studio Code
+
+Programar en C dentro de Visual Studio Code permite poner en práctica los conocimientos aprendidos y ver cómo funcionan los programas. Es una forma sencilla y útil de crear y probar tus propios proyectos.
+
+💡 Reflexión sobre programar en C con Visual Studio Code
+
+Usar el lenguaje C ayuda a comprender la base de la programación. Con Visual Studio Code, se puede aprender de forma práctica y entender mejor cómo la computadora sigue las instrucciones que uno crea.
 
 
 
