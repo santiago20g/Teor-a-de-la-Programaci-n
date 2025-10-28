@@ -51,10 +51,8 @@ Aprender a usar Visual Studio Code para escribir y probar programas en el lengua
 ####   https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing
 ---
 ###    8. Reflexiones y conclusiones
-####   Objetivo:
-
 ####   Link de la Actividad:
-####
+####   
 
 
 
