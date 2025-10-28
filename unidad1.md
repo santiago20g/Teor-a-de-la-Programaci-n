@@ -22,6 +22,11 @@ Comprender y aplicar la programación por bloques para crear proyectos simples, 
 Desarrollar habilidades de detección y corrección de errores en algoritmos secuenciales escritos en pseudocódigo, justificando cada ajuste y validando la solución modificada mediante la ejecución del algoritmo. 
 ####   Link de la Actividad:
 ####   https://drive.google.com/file/d/1b5K8L_Xz0mfpSBWobleR8IrI6j_PYyGJ/view?usp=sharing
+###    4.  Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo 
+####   Objetivo:  
+Familiarizar al estudiante con la herramienta PSeInt y desarrollar su primer algoritmo en pseudocódigo, aplicando estructuras secuenciales básicas. 
+####   Link de la Actividad: 
+####   https://drive.google.com/file/d/1gTUPK-DCqlx4yilsj48_COZmy_HMS4ql/view?usp=sharing
 ---
 ###    AA - Aprendizaje Autónomo
 ###    5.   Revisión de tutoriales oficiales de instalación de lenguajes de programación (C, Python o Java)
@@ -40,11 +45,7 @@ Reconocer y aplicar herramientas digitales para la representación de algoritmos
 ---
 
 ---
-###    4.  Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo 
-####   Objetivo:  
-Familiarizar al estudiante con la herramienta PSeInt y desarrollar su primer algoritmo en pseudocódigo, aplicando estructuras secuenciales básicas. 
-####   Link de la Actividad: 
-####   https://drive.google.com/file/d/1gTUPK-DCqlx4yilsj48_COZmy_HMS4ql/view?usp=sharing
+
 ---
 
 ---
