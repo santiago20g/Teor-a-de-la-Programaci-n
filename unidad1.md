@@ -10,7 +10,7 @@
 
 ###    1.  Programación por Bloques
 ####   Objetivo:  Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
-####   Link de la Tarea:
+####   Link de la Actividad:
 ---
 ###    2.  Exploración y uso de herramientas digitales para pseudocódigo y diagramas de flujo.
 ####   Objetivo:  Reconocer y aplicar herramientas digitales para la representación de algoritmos en pseudocódigo y diagramas de flujo, fortaleciendo la comprensión del proceso de solución de problemas computacionales.
@@ -19,7 +19,7 @@
 ---
 ###    3. Debugging Challenge: “Cazadores de Bugs”
 ####   Objetivo: Desarrollar habilidades de detección y corrección de errores en algoritmos secuenciales escritos en pseudocódigo, justificando cada ajuste y validando la solución modificada mediante la ejecución del algoritmo. 
-####   Link de la Tarea:
+####   Link de la Actividad:
 ####   https://drive.google.com/file/d/1b5K8L_Xz0mfpSBWobleR8IrI6j_PYyGJ/view?usp=sharing
 ---
 ###    4.  Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo. 
