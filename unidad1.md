@@ -24,6 +24,11 @@ Desarrollar habilidades de detección y corrección de errores en algoritmos sec
 ####   https://drive.google.com/file/d/1b5K8L_Xz0mfpSBWobleR8IrI6j_PYyGJ/view?usp=sharing
 ---
 ###    AA - Aprendizaje Autónomo
+###    5.   Revisión de tutoriales oficiales de instalación de lenguajes de programación (C, Python o Java)
+####   Objetivo: 
+Revisar e interpretar tutoriales oficiales de instalación de lenguajes de programación, con el fin de familiarizarse con el entorno de desarrollo, documentando el proceso de instalación en un informe estructurado.
+####   Link de la Actividad: 
+####   https://drive.google.com/file/d/14FDy1J-bC7IHWq7mQKCvUivUkX1hMe5U/view?usp=sharing
 ---
 
 ---
@@ -41,11 +46,7 @@ Familiarizar al estudiante con la herramienta PSeInt y desarrollar su primer alg
 ####   Link de la Actividad: 
 ####   https://drive.google.com/file/d/1gTUPK-DCqlx4yilsj48_COZmy_HMS4ql/view?usp=sharing
 ---
-###    5.   Revisión de tutoriales oficiales de instalación de lenguajes de programación (C, Python o Java)
-####   Objetivo: 
-Revisar e interpretar tutoriales oficiales de instalación de lenguajes de programación, con el fin de familiarizarse con el entorno de desarrollo, documentando el proceso de instalación en un informe estructurado.
-####   Link de la Actividad: 
-####   https://drive.google.com/file/d/14FDy1J-bC7IHWq7mQKCvUivUkX1hMe5U/view?usp=sharing
+
 ---
 ###    6.  Pseudocódigos realizados en PSeInt
 ####   Objetivo:
