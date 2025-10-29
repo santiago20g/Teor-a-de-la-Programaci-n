@@ -59,10 +59,8 @@ Validar la lógica del algoritmo mediante pruebas de escritorio.
 
 Implementar y ejecutar la solución en un lenguaje de programación. 
 ####   ● Link de la Actividad: 
-####   https://drive.google.com/file/d/1az3psHxNKFRZoLhOaPKD6FGnFVDiAKwu/view?usp=sharing (Informe)
-####   https://drive.google.com/file/d/1AC0GLVwwTyyE2iL4_WjaKTkBOicGbr-x/view?usp=sharing (Códigos)
-####  [Actividad APE 4](https://drive.google.com/file/d/1az3psHxNKFRZoLhOaPKD6FGnFVDiAKwu/view?usp=sharing)
-####  [Actividad APE 4](https://drive.google.com/file/d/1AC0GLVwwTyyE2iL4_WjaKTkBOicGbr-x/view?usp=sharing)
+####  [Actividad APE 4](https://drive.google.com/file/d/1az3psHxNKFRZoLhOaPKD6FGnFVDiAKwu/view?usp=sharing) (Informe)
+####  [Actividad APE 4](https://drive.google.com/file/d/1AC0GLVwwTyyE2iL4_WjaKTkBOicGbr-x/view?usp=sharing) (Códigos)
 ---
 
 ###    <p align="center"><strong>***AA - Aprendizaje Autónomo***</strong></p>
