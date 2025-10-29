@@ -56,8 +56,10 @@ Link de la Unidad 1:
 ---
 
 ### 🤖 ***Uso de la IA Generativa***  
-🧬 Aplicación de herramientas como **ChatGPT** y **GitHub Copilot** en el proceso de aprendizaje.  
-💡 Cómo la inteligencia artificial puede apoyar el desarrollo de código y la comprensión teórica.
+🧬 Acepto haber usado la herramienta **ChatGPT** en el proceso de aprendizaje y de manera adecuando para mejorar la visualizacion en Markdown, "sin usar la IA como herramienta dpara generar códigos"
+####
+[Compromiso de Uso Ético de la IA](https://drive.google.com/file/d/1NRcp_PPKA4rxwliotLhTuv-p__HyHeMm/view?usp=sharing)
+
 
 ---
 
