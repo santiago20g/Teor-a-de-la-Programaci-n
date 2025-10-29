@@ -27,7 +27,7 @@ Ing. Lissette Geoconda López Faicán
 ### 🧩 ***Unidad 1: Fundamentos de la Programación***
 📖 Conceptos básicos, algoritmos y estructuras de control.  
 Link de la Unidad 1:
-[Unidad 1](unidad1.md)
+[Unidad 1](Unidad1.md)
 
 
 ---
