@@ -63,7 +63,7 @@ Implementar y ejecutar la solución en un lenguaje de programación.
 ####  [Actividad APE 4](https://drive.google.com/file/d/1AC0GLVwwTyyE2iL4_WjaKTkBOicGbr-x/view?usp=sharing) (Códigos)
 ---
 
-###    <p align="center"><strong>***AA - Aprendizaj Autónomo***</strong></p>
+###    <p align="center"><strong>***AA - Aprendizaje Autónomo***</strong></p>
 ###    1.  Exploración y Uso de Herramientas Digitales Para Pseudocódigo y Diagramas de Flujo
 ####   ● Objetivo:  
 Reconocer y aplicar herramientas digitales para la representación de algoritmos en pseudocódigo y diagramas de flujo, fortaleciendo la comprensión del proceso de solución de problemas computacionales.
