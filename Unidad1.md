@@ -85,7 +85,7 @@ Revisar e interpretar tutoriales oficiales de instalación de lenguajes de progr
 ---
 
 ###   Principales dificultades en la aplicación de los contenidos
-Las principales dificultades que se me presentaron en esta unidad fueron: poder aprenderme el nomre de las variables como por ejemplo: para que sirve y en que momento usar el Int, Float, double
+Las principales dificultades que se me presentaron en esta unidad fueron: poder aprenderme el nomre de los tipos de datos que se pueden usar al programar como por ejemplo: para que sirve y en que momento usar el Int, float, double, char, long; además algo que se me complico algo fue aprender a como usar las máscaras las cuales son: %i, %d, %c, %s, %(número)s, %%, %(número1).(número2)f y por ultimo se me complico aprender la linea de codigo para poder compilar mi codigo fuente y asi pñoder obtener el archivo ejecutable.
 
 ---
 
