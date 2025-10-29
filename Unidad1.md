@@ -30,7 +30,7 @@ Aprender a usar Visual Studio Code para escribir y probar programas en el lengua
 
 ---
 
-###    <p align="center"><strong>***APE - Aprendiza Práctico Experimental***</strong></p>
+###    <p align="center"><strong>***APE - Aprendizaje Práctico Experimental***</strong></p>
 ###    1. Programación por Bloques
 ####   ● Objetivo:  
 Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
@@ -63,7 +63,7 @@ Implementar y ejecutar la solución en un lenguaje de programación.
 ####  [Actividad APE 4](https://drive.google.com/file/d/1AC0GLVwwTyyE2iL4_WjaKTkBOicGbr-x/view?usp=sharing) (Códigos)
 ---
 
-###    <p align="center"><strong>***AA - Aprendizaje Autónomo***</strong></p>
+###    <p align="center"><strong>***AA - Aprendizaj Autónomo***</strong></p>
 ###    1.  Exploración y Uso de Herramientas Digitales Para Pseudocódigo y Diagramas de Flujo
 ####   ● Objetivo:  
 Reconocer y aplicar herramientas digitales para la representación de algoritmos en pseudocódigo y diagramas de flujo, fortaleciendo la comprensión del proceso de solución de problemas computacionales.
