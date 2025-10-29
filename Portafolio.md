@@ -62,7 +62,7 @@ Link de la Unidad 1:
 ---
 
 ### 🤖 ***Uso de la IA Generativa***  
-🧬 Acepto haber usado la herramienta **ChatGPT** en el proceso de aprendizaje y de manera adecuando para mejorar la visualizacion en Markdown, "sin usar la IA como herramienta dpara generar códigos"
+🧬 Acepto haber usado la herramienta **ChatGPT** en el proceso de aprendizaje y de manera adecuando para mejorar la visualización en Markdown, "sin usar la IA como herramienta para generar códigos"
 ####   Firma de Compromiso de Uso Ético de la IA Educativa
 [Compromiso de Uso Ético de la IA](https://drive.google.com/file/d/1NRcp_PPKA4rxwliotLhTuv-p__HyHeMm/view?usp=sharing)
 
