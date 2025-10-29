@@ -97,7 +97,7 @@ Al usar el lenguaje C nos ayuda a comprender la base de la programación. Con Vi
 ---
 
 ### Regresar al Inicio
-###    <p align="center"><strong>[Inicio](index.md)</strong></p>
+###    <p align="center"><strong>[Inicio](Portafolio.md)</strong></p>
 
 
 
