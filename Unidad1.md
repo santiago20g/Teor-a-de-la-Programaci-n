@@ -50,7 +50,7 @@ Familiarizar al estudiante con la herramienta PSeInt y desarrollar su primer alg
 ####  [Actividad APE 3](https://drive.google.com/file/d/1gTUPK-DCqlx4yilsj48_COZmy_HMS4ql/view?usp=sharing)
 
 ###    4. Del Diseño del Algoritmo con Estructuras Secuenciales a la Construcción del Programa.  
-####   ● Objetivo:  
+####   ● Objetivos:  
 Desarrollar la capacidad de transformar un problema en una solución computacional. 
 
 Aplicar estructuras secuenciales en el diseño del algoritmo. 
@@ -85,7 +85,7 @@ Revisar e interpretar tutoriales oficiales de instalación de lenguajes de progr
 ---
 
 ###   Principales dificultades en la aplicación de los contenidos
-Las principales dificultades que se me presentaron en esta unidad fueron: poder aprenderme el nomre de los tipos de datos que se pueden usar al programar como por ejemplo: para que sirve y en que momento usar el Int, float, double, char, long; además algo que se me complico algo fue aprender a como usar las máscaras las cuales son: %i, %d, %c, %s, %(número)s, %%, %(número1).(número2)f y por ultimo se me complico aprender la linea de codigo para poder compilar mi codigo fuente y asi pñoder obtener el archivo ejecutable.
+Las principales dificultades que se me presentaron en esta unidad fueron: poder aprenderme el nombre de los tipos de datos que se pueden usar al programar como por ejemplo: para que sirve y en que momento usar el Int, float, double, char, long; además algo que se me complico fue aprender a como usar las máscaras las cuales son: %i, %d, %c, %s, %(número)s, %%, %(número1).(número2)f y por último se me complico aprender la linea de código que se usa para poder compilar el código fuente y asi poder obtener el archivo ejecutable.
 
 ---
 
