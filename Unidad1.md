@@ -81,6 +81,12 @@ Revisar e interpretar tutoriales oficiales de instalación de lenguajes de progr
 ###    <p align="center"><strong>***Codigos Fuente Realizados en la Unidad 1***</strong></p>
 ####   ● Link de los Códigos:
 ####  [Códigos Fuente](https://drive.google.com/drive/folders/1vq2ZTflq-HLikM670ivG3DuCzUhmWB6c?usp=sharing)
+
+---
+
+###   Principales dificultades en la aplicación de los contenidos
+Las principales dificultades que se me presentaron en esta unidad fueron: poder aprenderme el nomre de las variables como por ejemplo: para que sirve y en que momento usar el Int, Float, double
+
 ---
 
 ###    ***Reflexiones y Conclusiones***
