@@ -52,6 +52,7 @@ Link de la Unidad 1:
 
 ### 📚 ***Referencias***  
 🔗 Fuentes consultadas, materiales de apoyo y documentación oficial.
+
 [1]   D. L. González Bañales, M. I. Domínguez Domínguez, E. A. Flores Trinidad, Tecnologías de la Información en Educación. México: Red Durango de Investigadores Educativos, 2020. 
 
 [2]   A. Mendoza Condori, “Influencia Del Software Lucidchart En El Aprendizaje Autónomo De Los Estudiantes Del Instituto De Educación Superior Pedagógico”, thesis, Universidad Nacional del Altiplano, Puno, Perú, 2023. 
