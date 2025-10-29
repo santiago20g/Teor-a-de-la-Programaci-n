@@ -20,13 +20,13 @@
 ####   ● Objetivo:
 Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desarrollar habilidades de razonamiento y planificar soluciones a problemas.
 ####   ● Link de la Actividad:
-####   https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing
+####  [Actividad ACD 1](https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing)
 
 ###    2. Códigos Realizados en Visual Studio Code Usando el Lenguaje de Programación C
 ####   ● Objetivo:
 Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean las instrucciones que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código.
 ####   ● Link de la Actividad:
-####   https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing
+####  [Actividad ACD 2]( https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing)
 
 ---
 
@@ -35,19 +35,19 @@ Aprender a usar Visual Studio Code para escribir y probar programas en el lengua
 ####   ● Objetivo:  
 Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
 ####   ● Link de la Actividad:
-####   https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing
+####  [Actividad APE 1](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
 
 ###    2. Debugging Challenge: “Cazadores de Bugs”
 ####   ● Objetivo: 
 Desarrollar habilidades de detección y corrección de errores en algoritmos secuenciales escritos en pseudocódigo, justificando cada ajuste y validando la solución modificada mediante la ejecución del algoritmo. 
 ####   ● Link de la Actividad:
-####   https://drive.google.com/file/d/1b5K8L_Xz0mfpSBWobleR8IrI6j_PYyGJ/view?usp=sharing
+####  [Actividad APE 2](https://drive.google.com/file/d/1b5K8L_Xz0mfpSBWobleR8IrI6j_PYyGJ/view?usp=sharing)
 
 ###    3. Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo 
 ####   ● Objetivo:  
 Familiarizar al estudiante con la herramienta PSeInt y desarrollar su primer algoritmo en pseudocódigo, aplicando estructuras secuenciales básicas. 
 ####   ● Link de la Actividad: 
-####   https://drive.google.com/file/d/1gTUPK-DCqlx4yilsj48_COZmy_HMS4ql/view?usp=sharing
+####  [Actividad APE 3](https://drive.google.com/file/d/1gTUPK-DCqlx4yilsj48_COZmy_HMS4ql/view?usp=sharing)
 
 ###    4. Del Diseño del Algoritmo con Estructuras Secuenciales a la Construcción del Programa.  
 ####   ● Objetivo:  
@@ -61,7 +61,8 @@ Implementar y ejecutar la solución en un lenguaje de programación.
 ####   ● Link de la Actividad: 
 ####   https://drive.google.com/file/d/1az3psHxNKFRZoLhOaPKD6FGnFVDiAKwu/view?usp=sharing (Informe)
 ####   https://drive.google.com/file/d/1AC0GLVwwTyyE2iL4_WjaKTkBOicGbr-x/view?usp=sharing (Códigos)
-
+####  [Actividad APE 4](https://drive.google.com/file/d/1az3psHxNKFRZoLhOaPKD6FGnFVDiAKwu/view?usp=sharing)
+####  [Actividad APE 4](https://drive.google.com/file/d/1AC0GLVwwTyyE2iL4_WjaKTkBOicGbr-x/view?usp=sharing)
 ---
 
 ###    <p align="center"><strong>***AA - Aprendizaje Autónomo***</strong></p>
@@ -69,19 +70,19 @@ Implementar y ejecutar la solución en un lenguaje de programación.
 ####   ● Objetivo:  
 Reconocer y aplicar herramientas digitales para la representación de algoritmos en pseudocódigo y diagramas de flujo, fortaleciendo la comprensión del proceso de solución de problemas computacionales.
 ####   ● Link de la Actividad:
-####   https://drive.google.com/file/d/1vMAriyU_HHd7WvFAuLXaUs3QfQGMwgXW/view?usp=sharing
+####  [Actividad AA 1](https://drive.google.com/file/d/1vMAriyU_HHd7WvFAuLXaUs3QfQGMwgXW/view?usp=sharing)
 
 ###    2.   Revisión de Tutoriales Oficiales de Instalación de Lenguajes de Programación (C, Python o Java)
 ####   ● Objetivo: 
 Revisar e interpretar tutoriales oficiales de instalación de lenguajes de programación, con el fin de familiarizarse con el entorno de desarrollo, documentando el proceso de instalación en un informe estructurado.
 ####   ● Link de la Actividad: 
-####   https://drive.google.com/file/d/14FDy1J-bC7IHWq7mQKCvUivUkX1hMe5U/view?usp=sharing
+####  [Actividad AA 2](https://drive.google.com/file/d/14FDy1J-bC7IHWq7mQKCvUivUkX1hMe5U/view?usp=sharing)
 
 ---
 
 ###    <p align="center"><strong>***Codigos Fuente Realizados en la Unidad 1***</strong></p>
 ####   ● Link de los Códigos:
-####   https://drive.google.com/drive/folders/1vq2ZTflq-HLikM670ivG3DuCzUhmWB6c?usp=sharing
+####  [Códigos Fuente](https://drive.google.com/drive/folders/1vq2ZTflq-HLikM670ivG3DuCzUhmWB6c?usp=sharing)
 ---
 
 ###    ***Reflexiones y Conclusiones***
