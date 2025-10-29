@@ -30,7 +30,7 @@ Aprender a usar Visual Studio Code para escribir y probar programas en el lengua
 
 ---
 
-###    <p align="center"><strong>***APE - Aprendizaje Práctico Experimental***</strong></p>
+###    <p align="center"><strong>***APE - Aprendiza Práctico Experimental***</strong></p>
 ###    1. Programación por Bloques
 ####   ● Objetivo:  
 Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
