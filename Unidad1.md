@@ -9,8 +9,7 @@
 
 ###    ***Temas Vistos en la Unidad 1***
 ####   ● Link de los Temas:
-####   https://drive.google.com/drive/folders/1LNvDggg_dmoPzyRiE9DEKXAz0TS23sIX?usp=sharing
-####  [Unidad 1](https://drive.google.com/drive/folders/1LNvDggg_dmoPzyRiE9DEKXAz0TS23sIX?usp=sharing)
+####  [Temas de la Unidad 1](https://drive.google.com/drive/folders/1LNvDggg_dmoPzyRiE9DEKXAz0TS23sIX?usp=sharing)
 
 ---
 
