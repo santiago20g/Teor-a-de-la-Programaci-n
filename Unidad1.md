@@ -67,7 +67,7 @@ Comprender y aplicar la programación por bloques para crear proyectos simples, 
 ####   ● Objetivo:
 Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean algoritmos con estructuras lineales/secuenciales que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código usando estructuras lineales/secuenciales.
 ####   ● ¿Qué es?: 
-Un algoritmo con estructura lineal/secuencial es como una lista de pasos que se siguen uno tras otro, en el mismo orden en el que están escritos, sin saltarse ninguno, por ende cada paso depende del anterior.
+Un algoritmo con estructura lineal/secuencial es como una lista de pasos que se ejecutan uno tras otro en el mismo orden en el que están escritos sin saltarse ninguno, por ende cada paso depende del anterior.
 ####   ● Ejemplo: 
 <img width="2655" height="1976" alt="image" src="https://github.com/user-attachments/assets/3a3ae7a2-cf85-4404-b4b8-71dc570f5a26" />
 
