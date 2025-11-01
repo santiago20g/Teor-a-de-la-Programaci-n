@@ -14,19 +14,19 @@ Elaborar un Portafolio Digital que registre y organice las actividades de todo e
 
 ---
 
-### 🧩 ***Unidad 1: Fundamentos de la Programación***
+### 🧩 ***Unidad 1***
 📖 Conceptos básicos, algoritmos, estructuras .  
 Link de la Unidad 1:
 [Unidad 1](Unidad1.md)
 
 ---
 
-### ⚙️ ***Unidad 2: Estructuras y Funciones***  
+### ⚙️ ***Unidad 2***  
 🧠 Desarrollo modular de programas mediante funciones y procedimientos.  
 
 ---
 
-### 🧱 ***Unidad 3: Programación Avanzada***
+### 🧱 ***Unidad 3***
 🚀 Aplicación de conceptos avanzados en resolución de problemas reales.  
 
 ---
