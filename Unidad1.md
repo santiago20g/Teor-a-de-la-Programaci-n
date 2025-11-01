@@ -7,23 +7,20 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 
 ---
 
-###    ***Temas Vistos en la Unidad 1***
-####   ● Link de los Temas:
-####  [Temas de la Unidad 1](https://drive.google.com/drive/folders/1LNvDggg_dmoPzyRiE9DEKXAz0TS23sIX?usp=sharing)
-
+###    <p align="center"><strong>***Temas Vistos en la Unidad 1***</strong></p>
 ###    1. Programación por Bloques
 ####   ● Objetivo:  
 Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
 ####   ● Link de la Actividad:
 ####  [Actividad APE 1](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
 
-###    1. Pseudocódigos Realizados en PSeInt
+###    2. Pseudocódigos Realizados en PSeInt
 ####   ● Objetivo:
 Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desarrollar habilidades de razonamiento y planificar soluciones a problemas.
 ####   ● Link de la Actividad:
 ####  [Actividad ACD 1](https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing)
 
-###    2. Códigos Realizados en Visual Studio Code Usando el Lenguaje de Programación C
+###    3. Códigos Realizados en Visual Studio Code Usando el Lenguaje de Programación C
 ####   ● Objetivo:
 Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean las instrucciones que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código.
 ####   ● Link de la Actividad:
@@ -32,8 +29,6 @@ Aprender a usar Visual Studio Code para escribir y probar programas en el lengua
 ---
 
 ###    ***Actividades Realizadas en Toda la Unidad:***
-
-
 ###    <p align="center"><strong>***APE - Aprendizaje Práctico Experimental***</strong></p>
 ###    1. Debugging Challenge: “Cazadores de Bugs”
 ####   ● Objetivo: 
@@ -76,14 +71,15 @@ Revisar e interpretar tutoriales oficiales de instalación de lenguajes de progr
 
 ---
 
-###    <p align="center"><strong>***Codigos Fuente Realizados en la Unidad 1***</strong></p>
-####   ● Link de los Códigos:
-####  [Códigos Fuente](https://drive.google.com/drive/folders/1vq2ZTflq-HLikM670ivG3DuCzUhmWB6c?usp=sharing)
+###   ***Principales dificultades en la aplicación de los contenidos***
+Las principales dificultades que se me presentaron en esta unidad fueron: poder aprenderme el nombre de los tipos de datos que se pueden usar al programar como por ejemplo: para que sirve y en que momento usar el Int, float, double, char, long; además algo que se me complico fue aprender a como usar las máscaras las cuales son: %i, %d, %c, %s, %(número)s, %%, %(número1).(número2)f y por último se me complico aprender la linea de código que se usa para poder compilar el código fuente y asi poder obtener el archivo ejecutable.
 
 ---
 
-###   Principales dificultades en la aplicación de los contenidos
-Las principales dificultades que se me presentaron en esta unidad fueron: poder aprenderme el nombre de los tipos de datos que se pueden usar al programar como por ejemplo: para que sirve y en que momento usar el Int, float, double, char, long; además algo que se me complico fue aprender a como usar las máscaras las cuales son: %i, %d, %c, %s, %(número)s, %%, %(número1).(número2)f y por último se me complico aprender la linea de código que se usa para poder compilar el código fuente y asi poder obtener el archivo ejecutable.
+
+###    <p align="center"><strong>***Codigos Fuente Realizados en la Unidad 1***</strong></p>
+####   ● Link de los Códigos:
+####  [Códigos Fuente](https://drive.google.com/drive/folders/1vq2ZTflq-HLikM670ivG3DuCzUhmWB6c?usp=sharing)
 
 ---
 
@@ -99,8 +95,8 @@ Al usar el lenguaje C nos ayuda a comprender la base de la programación. Con Vi
 
 ---
 
-### Regresar al Inicio
-###    <p align="center"><strong>[Inicio](Portafolio.md)</strong></p>
+### ***Regresar al Inicio***
+###    <p align="center"><strong>[***Inicio***](Portafolio.md)</strong></p>
 
 
 
