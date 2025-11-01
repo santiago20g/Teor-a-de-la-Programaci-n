@@ -8,25 +8,25 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 ---
 
 ###    <p align="center"><strong>***Temas Vistos en la Unidad 1***</strong></p>
-###    1. Programación por Bloques
+###    1. Programación por Bloques:
 ####   ● Objetivo:  
 Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
 ####   ● Más Ejemplos:
 ####  [Ejemplos](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
 
-###    1. Programación por Bloques
+###    1. Pruebas de Escritorio:
 ####   ● Objetivo:  
 
 ####   ● Más Ejemplos:
 ####  [Ejemplos]()
 
-###    2. Pseudocódigos Realizados en PSeInt
+###    2. Pseudocódigos Realizados en PSeInt:
 ####   ● Objetivo:
 Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desarrollar habilidades de razonamiento y planificar soluciones a problemas.
 ####   ● Más Ejemplos:
 ####  [Ejemplos](https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing)
 
-###    3. Códigos Realizados en Visual Studio Code Usando el Lenguaje de Programación C
+###    3. Códigos Realizados en Visual Studio Code Usando el Lenguaje de Programación C:
 ####   ● Objetivo:
 Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean las instrucciones que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código.
 ####   ● Más Ejemplos:
@@ -36,19 +36,19 @@ Aprender a usar Visual Studio Code para escribir y probar programas en el lengua
 
 ###    ***Actividades Realizadas en Toda la Unidad:***
 ###    <p align="center"><strong>***APE - Aprendizaje Práctico Experimental***</strong></p>
-###    1. Debugging Challenge: “Cazadores de Bugs”
+###    1. Debugging Challenge: “Cazadores de Bugs”:
 ####   ● Objetivo: 
 Desarrollar habilidades de detección y corrección de errores en algoritmos secuenciales escritos en pseudocódigo, justificando cada ajuste y validando la solución modificada mediante la ejecución del algoritmo. 
 ####   ● Link de la Actividad:
 ####  [Actividad](https://drive.google.com/file/d/1b5K8L_Xz0mfpSBWobleR8IrI6j_PYyGJ/view?usp=sharing)
 
-###    2. Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo 
+###    2. Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo:
 ####   ● Objetivo:  
 Familiarizar al estudiante con la herramienta PSeInt y desarrollar su primer algoritmo en pseudocódigo, aplicando estructuras secuenciales básicas. 
 ####   ● Link de la Actividad: 
 ####  [Actividad APE 1](https://drive.google.com/file/d/1gTUPK-DCqlx4yilsj48_COZmy_HMS4ql/view?usp=sharing)
 
-###    3. Del Diseño del Algoritmo con Estructuras Secuenciales a la Construcción del Programa.  
+###    3. Del Diseño del Algoritmo con Estructuras Secuenciales a la Construcción del Programa: 
 ####   ● Objetivos:  
 Desarrollar la capacidad de transformar un problema en una solución computacional. 
 
@@ -60,16 +60,17 @@ Implementar y ejecutar la solución en un lenguaje de programación.
 ####   ● Link de la Actividad: 
 ####  [Actividad APE 2](https://drive.google.com/file/d/1az3psHxNKFRZoLhOaPKD6FGnFVDiAKwu/view?usp=sharing) (Informe)
 ####  [Actividad APE 2](https://drive.google.com/file/d/1AC0GLVwwTyyE2iL4_WjaKTkBOicGbr-x/view?usp=sharing) (Códigos)
+
 ---
 
 ###    <p align="center"><strong>***AA - Aprendizaje Autónomo***</strong></p>
-###    1.  Exploración y Uso de Herramientas Digitales Para Pseudocódigo y Diagramas de Flujo
+###    1.  Exploración y Uso de Herramientas Digitales Para Pseudocódigo y Diagramas de Flujo:
 ####   ● Objetivo:  
 Reconocer y aplicar herramientas digitales para la representación de algoritmos en pseudocódigo y diagramas de flujo, fortaleciendo la comprensión del proceso de solución de problemas computacionales.
 ####   ● Link de la Actividad:
 ####  [Actividad AA 1](https://drive.google.com/file/d/1vMAriyU_HHd7WvFAuLXaUs3QfQGMwgXW/view?usp=sharing)
 
-###    2.   Revisión de Tutoriales Oficiales de Instalación de Lenguajes de Programación (C, Python o Java)
+###    2.   Revisión de Tutoriales Oficiales de Instalación de Lenguajes de Programación (C, Python o Java):
 ####   ● Objetivo: 
 Revisar e interpretar tutoriales oficiales de instalación de lenguajes de programación, con el fin de familiarizarse con el entorno de desarrollo, documentando el proceso de instalación en un informe estructurado.
 ####   ● Link de la Actividad: 
