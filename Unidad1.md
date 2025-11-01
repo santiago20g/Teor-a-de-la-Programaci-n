@@ -13,10 +13,7 @@ Comprender cómo elaborar un algoritmo usando pasos claros y de forma ordenada, 
 Un algoritmo es una secuencia de pasos ordenados de manera lógica y con fin, es decir que en algún momento se termina y que sirven para dar una solución a algún problema determinado.
 ####   ● Ejemplo: 
 
-
-https://github.com/user-attachments/assets/09366bc6-5159-4a08-9931-a92c48fd569c
-
-
+<img width="1454" height="625" alt="image" src="https://github.com/user-attachments/assets/9b752fad-6539-4ac4-b36a-7d6bae26907b" />
 
 
 
@@ -62,7 +59,11 @@ Comprender como funciona una secuencia de pasos usando la programación por bloq
 ####   ● ¿Qué es la Programación por Bloques?: 
 La programación por bloques es una forma de crear instrucciones usando piezas que se unen entre si, es decir, en lugar de escribir todo con palabras, se arrastran y juntan bloques que representan acciones. Esto sirve para aprender a programar de manera fácil y visualmente entendiendo como funciona una secuencia de pasos.
 ####   ● Ejemplo: 
-![Uploading image.png…]()
+
+
+https://github.com/user-attachments/assets/4c0fd32b-c1f6-4700-8c75-df219fad06ac
+
+
 
 
 ####  [Más Ejemplos:](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
