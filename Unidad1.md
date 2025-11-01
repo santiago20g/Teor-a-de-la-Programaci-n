@@ -85,11 +85,15 @@ Un algoritmo con estructura lineal/secuencial es como una lista de pasos que se 
 ---
 
 ###    <p align="center"><strong>***Actividades Realizadas en Toda la Unidad:*** </strong></p>
+###    <p align="center"><strong>***APE - Aprendizaje Práctico Experimental***</strong></p>
+
 ###    1. Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo:
 ####   ● Objetivo:  
 Familiarizar al estudiante con la herramienta PSeInt y desarrollar su primer algoritmo en pseudocódigo, aplicando estructuras secuenciales básicas. 
 ####   ● Link de la Actividad: 
 ####  [Actividad APE 1](https://drive.google.com/file/d/1gTUPK-DCqlx4yilsj48_COZmy_HMS4ql/view?usp=sharing)
+
+
 
 ###    2. Del Diseño del Algoritmo con Estructuras Secuenciales a la Construcción del Programa: 
 ####   ● Objetivos:  
@@ -104,7 +108,8 @@ Implementar y ejecutar la solución en un lenguaje de programación.
 ####  [Actividad APE 2](https://drive.google.com/file/d/1az3psHxNKFRZoLhOaPKD6FGnFVDiAKwu/view?usp=sharing) (Informe)
 ####  [Actividad APE 2](https://drive.google.com/file/d/1AC0GLVwwTyyE2iL4_WjaKTkBOicGbr-x/view?usp=sharing) (Códigos)
 
-###    <p align="center"><strong>***APE - Aprendizaje Práctico Experimental***</strong></p>
+
+
 ###    3. Debugging Challenge: “Cazadores de Bugs”:
 ####   ● Objetivo: 
 Desarrollar habilidades de detección y corrección de errores en algoritmos secuenciales escritos en pseudocódigo, justificando cada ajuste y validando la solución modificada mediante la ejecución del algoritmo. 
