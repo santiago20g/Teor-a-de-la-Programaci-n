@@ -54,6 +54,7 @@ Comprender y aplicar la programación por bloques para crear proyectos simples, 
 ####   ● ¿Qué es?: 
 
 ####   ● Ejemplo: 
+<img width="2140" height="3638" alt="image" src="https://github.com/user-attachments/assets/991bb92c-0bf5-451d-b005-0bf0f03cd50c" />
 
 ####   ● Más Ejemplos:
 ####  [Ejemplos](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
