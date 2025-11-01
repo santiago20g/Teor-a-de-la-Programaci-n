@@ -22,8 +22,6 @@ Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desar
 ####   ● ¿Qué es?: 
 
 ####   ● Ejemplo: 
-<img width="1078" height="572" alt="image" src="https://github.com/user-attachments/assets/4f641d6d-3955-475f-b725-1b8d95b7026b" />
-
 <img width="2167" height="1145" alt="image" src="https://github.com/user-attachments/assets/df143372-223c-4f70-8caf-dd3a5f59fb3b" />
 
 
@@ -63,6 +61,9 @@ Aprender a usar Visual Studio Code para escribir y probar programas en el lengua
 
 ####   ● Ejemplo: 
 <img width="1255" height="987" alt="image" src="https://github.com/user-attachments/assets/139c19c4-38a7-4aa9-9ca5-4614397d0445" />
+
+<img width="2655" height="1976" alt="image" src="https://github.com/user-attachments/assets/3a3ae7a2-cf85-4404-b4b8-71dc570f5a26" />
+
 
 ####   ● Más Ejemplos:
 ####  [Ejemplos]( https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing)
