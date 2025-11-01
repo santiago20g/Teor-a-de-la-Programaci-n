@@ -8,13 +8,7 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 ---
 
 ###    <p align="center"><strong>***Temas Vistos en la Unidad 1***</strong></p>
-###    1. Programación por Bloques:
-####   ● Objetivo:  
-Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
-####   ● Más Ejemplos:
-####  [Ejemplos](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
-
-###    1. Pruebas de Escritorio:
+###    1. Algoritmos:
 ####   ● Objetivo:  
 
 ####   ● Más Ejemplos:
@@ -26,7 +20,25 @@ Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desar
 ####   ● Más Ejemplos:
 ####  [Ejemplos](https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing)
 
-###    3. Códigos Realizados en Visual Studio Code Usando el Lenguaje de Programación C:
+###    3. Diagramas de Flujos:
+####   ● Objetivo:  
+
+####   ● Más Ejemplos:
+####  [Ejemplos]()
+
+###    4. Pruebas de Escritorio:
+####   ● Objetivo:  
+
+####   ● Más Ejemplos:
+####  [Ejemplos]()
+
+###    5. Programación por Bloques:
+####   ● Objetivo:  
+Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
+####   ● Más Ejemplos:
+####  [Ejemplos](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
+
+###    6. Ejemplos de algoritmos con estructuras lineales/secuenciales. :
 ####   ● Objetivo:
 Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean las instrucciones que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código.
 ####   ● Más Ejemplos:
