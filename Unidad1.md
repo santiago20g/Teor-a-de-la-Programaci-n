@@ -15,7 +15,7 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 ####   ● Objetivo: 
 
 ####   ● ¿Qué es?: 
-
+Un algoritmo es una secuencia de pasos ordenados de manera lógica y con fin, es decir que en algún momento se termina y que sirven para dar una solución a algún problema determinado.
 ####   ● Ejemplo: 
 
 
@@ -36,7 +36,7 @@ Los pseudocódigos son una forma de escribir instrucciones paso a paso para reso
 ####   ● Objetivo: 
 
 ####   ● ¿Qué es?: 
-
+Un diagrama de flujo o flujograma es como un mapa estructurado que muestra los pasos para realizar una acción, usando figuras y flechas. Cada figura representa una acción o decisión y las flechas indican el camino que se debe seguir, esto sirve para entender mejor una idea o proceso organizando las tareas paso a paso.
 ####   ● Ejemplo: 
 <img width="2724" height="1984" alt="image" src="https://github.com/user-attachments/assets/e3081fcd-c0c0-442e-9750-9b6efc389aea" />
 
@@ -46,7 +46,7 @@ Los pseudocódigos son una forma de escribir instrucciones paso a paso para reso
 ####   ● Objetivo:  
 
 ####   ● ¿Qué es?: 
-
+Las pruebas de escritorio son para verificar si algo que planteaste sirve, realizando las instrucciones tu mismo, sin usar la computadora
 ####   ● Ejemplo: 
 
 
@@ -55,7 +55,7 @@ Los pseudocódigos son una forma de escribir instrucciones paso a paso para reso
 ####   ● Objetivo:  
 Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
 ####   ● ¿Qué es?: 
-
+La programación por bloques es una forma de crear instrucciones usando piezas que se unen entre si, es decir, en lugar de escribir todo con palabras, se arrastran y juntan bloques que representan acciones. Esto sirve para aprender a programar de manera fácil y visualmente entendiendo como funciona una secuencia de pasos.
 ####   ● Ejemplo: 
 <img width="2901" height="1551" alt="image" src="https://github.com/user-attachments/assets/ebe2971b-2478-40c4-8e3b-2840bc8ee7d0" />
 
