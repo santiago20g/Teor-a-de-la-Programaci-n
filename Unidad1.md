@@ -9,24 +9,31 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 
 ###    <p align="center"><strong>***Temas Vistos en la Unidad 1***</strong></p>
 ###    1. Algoritmos:
-####   ● Objetivo:  
+####   ● Objetivo: 
+
+####   ● Ejemplo: 
 
 
 
 ###    2. Pseudocódigos Realizados en PSeInt:
 ####   ● Objetivo:
 Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desarrollar habilidades de razonamiento y planificar soluciones a problemas.
+####   ● Ejemplo: 
+
 ####   ● Más Ejemplos:
 ####  [Ejemplos](https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing)
 
 ###    3. Diagramas de Flujos:
 ####   ● Objetivo:  
 
+####   ● Ejemplo: 
+
 
 
 ###    4. Pruebas de Escritorio:
 ####   ● Objetivo:  
 
+####   ● Ejemplo: 
 
 
 ###    5. Programación por Bloques:
