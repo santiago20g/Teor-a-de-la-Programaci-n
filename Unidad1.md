@@ -75,7 +75,7 @@ Un algoritmo con estructura lineal/secuencial es como una lista de pasos que se 
 
 ---
 
-###    ***Actividades Realizadas en Toda la Unidad:***
+###    <p align="center"><strong>***Actividades Realizadas en Toda la Unidad:*** </strong></p>
 ###    1. Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo:
 ####   ● Objetivo:  
 Familiarizar al estudiante con la herramienta PSeInt y desarrollar su primer algoritmo en pseudocódigo, aplicando estructuras secuenciales básicas. 
