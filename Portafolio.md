@@ -1,3 +1,14 @@
+ㅤ                                     <p align="center">
+  <img src="https://unl.edu.ec/sites/default/files/logogris%20copia.png" alt="Logo UNL" width="300">
+ </p>                                                      
+
+
+
+#      <p align="center"><strong>🎓 Universidad Nacional de Loja 🎓</strong></p>
+
+#      <p align="center"><strong>💻 Teoría de la Programación 💻</strong></p>
+
+
 ### 🧩 ***Unidad 1: Fundamentos de la Programación***
 📖 Conceptos básicos, algoritmos y estructuras de control.  
 Link de la Unidad 1:
