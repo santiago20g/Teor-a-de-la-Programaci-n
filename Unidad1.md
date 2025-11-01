@@ -12,7 +12,8 @@ Comprender cómo elaborar un algoritmo usando pasos claros y de forma ordenada, 
 ####   ● ¿Qué es?: 
 Un algoritmo es una secuencia de pasos ordenados de manera lógica y con fin, es decir que en algún momento se termina y que sirven para dar una solución a algún problema determinado.
 ####   ● Ejemplo: 
-<img width="815" height="528" alt="image" src="https://github.com/user-attachments/assets/4e947d20-5198-4dd2-beaa-50da4ef81bad" />
+<img width="1136" height="593" alt="image" src="https://github.com/user-attachments/assets/2ef380b6-3aaf-40dd-bb93-e4b838f7f581" />
+
 
 
 
