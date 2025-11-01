@@ -52,6 +52,4 @@ Link de la Unidad 1:
 [Compromiso de Uso Ético de la IA](https://drive.google.com/file/d/1NRcp_PPKA4rxwliotLhTuv-p__HyHeMm/view?usp=sharing)
 
 ---
-
-### Volver a la Carátula
-###    <p align="center"><strong>[***Carátula***](README.md)</strong></p>
+###    <p align="center"><strong>[***Volver a la Carátula***](README.md)</strong></p>
