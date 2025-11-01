@@ -8,7 +8,7 @@
 
 ###    1. Algoritmos:
 ####   ● Objetivo: 
-
+Comprender cómo elaborar un algoritmo usando pasos claros y de forma ordenada, mejorando el pensamiento lógico y la capacidad de encontrar soluciones a algún prblema determinado.
 ####   ● ¿Qué es?: 
 Un algoritmo es una secuencia de pasos ordenados de manera lógica y con fin, es decir que en algún momento se termina y que sirven para dar una solución a algún problema determinado.
 ####   ● Ejemplo: 
@@ -29,7 +29,7 @@ Los pseudocódigos son una forma de escribir instrucciones paso a paso para reso
 
 ###    3. Diagramas de Flujos:
 ####   ● Objetivo: 
-
+Desarrollar la habilidad de entender y estructurar diagramas de flujos para organizar pasos de forma clara y ordenada, usando estructuras que muestran los pasos para resolver tareas o tomar decisiones.
 ####   ● ¿Qué es?: 
 Un diagrama de flujo o flujograma es como un mapa estructurado que muestra los pasos para realizar una acción, usando figuras y flechas. Cada figura representa una acción o decisión y las flechas indican el camino que se debe seguir, esto sirve para entender mejor una idea o proceso organizando las tareas paso a paso.
 ####   ● Ejemplo: 
@@ -39,7 +39,7 @@ Un diagrama de flujo o flujograma es como un mapa estructurado que muestra los p
 
 ###    4. Pruebas de Escritorio:
 ####   ● Objetivo:  
-
+Aprender a revisar paso a paso si una idea funciona correctamente, detectando errores y mejorando la forma en que se resuelven problemas usando las pruebas de escritorio.
 ####   ● ¿Qué es?: 
 Las pruebas de escritorio son para verificar si algo que planteaste sirve, realizando las instrucciones tu mismo, sin usar la computadora
 ####   ● Ejemplo: 
