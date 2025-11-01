@@ -15,7 +15,7 @@ Elaborar un Portafolio Digital que registre y organice las actividades de todo e
 ---
 
 ### 🧩 ***Unidad 1: Fundamentos de la Programación***
-📖 Conceptos básicos, algoritmos y estructuras de control.  
+📖 Conceptos básicos, algoritmos, estructuras .  
 Link de la Unidad 1:
 [Unidad 1](Unidad1.md)
 
