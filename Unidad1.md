@@ -47,7 +47,8 @@ Aprender a revisar paso a paso si una idea funciona correctamente, detectando er
 ####   ● ¿Qué son las Pruebas de Escritorio?: 
 Las pruebas de escritorio son para verificar si algo que planteaste sirve, realizando las instrucciones tu mismo, sin usar la computadora.
 ####   ● Ejemplo: 
-<img width="1684" height="648" alt="image" src="https://github.com/user-attachments/assets/ed6bb2b5-8e66-4664-aaf2-3fb3d390513f" />
+<img width="2609" height="1562" alt="image" src="https://github.com/user-attachments/assets/42acc234-67a6-49c3-ad34-975ba85ff36d" />
+
 
 
 
