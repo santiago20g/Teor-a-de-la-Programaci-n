@@ -12,7 +12,7 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 ####   ● Objetivo:  
 
 ####   ● Más Ejemplos:
-####  [Ejemplos](Programación_Por_Bloques.pdf)
+####  [Ejemplos]()
 
 ###    2. Pseudocódigos Realizados en PSeInt:
 ####   ● Objetivo:
@@ -47,20 +47,13 @@ Aprender a usar Visual Studio Code para escribir y probar programas en el lengua
 ---
 
 ###    ***Actividades Realizadas en Toda la Unidad:***
-###    <p align="center"><strong>***APE - Aprendizaje Práctico Experimental***</strong></p>
-###    1. Debugging Challenge: “Cazadores de Bugs”:
-####   ● Objetivo: 
-Desarrollar habilidades de detección y corrección de errores en algoritmos secuenciales escritos en pseudocódigo, justificando cada ajuste y validando la solución modificada mediante la ejecución del algoritmo. 
-####   ● Link de la Actividad:
-####  [Actividad](https://drive.google.com/file/d/1b5K8L_Xz0mfpSBWobleR8IrI6j_PYyGJ/view?usp=sharing)
-
-###    2. Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo:
+###    1. Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo:
 ####   ● Objetivo:  
 Familiarizar al estudiante con la herramienta PSeInt y desarrollar su primer algoritmo en pseudocódigo, aplicando estructuras secuenciales básicas. 
 ####   ● Link de la Actividad: 
 ####  [Actividad APE 1](https://drive.google.com/file/d/1gTUPK-DCqlx4yilsj48_COZmy_HMS4ql/view?usp=sharing)
 
-###    3. Del Diseño del Algoritmo con Estructuras Secuenciales a la Construcción del Programa: 
+###    2. Del Diseño del Algoritmo con Estructuras Secuenciales a la Construcción del Programa: 
 ####   ● Objetivos:  
 Desarrollar la capacidad de transformar un problema en una solución computacional. 
 
@@ -72,6 +65,13 @@ Implementar y ejecutar la solución en un lenguaje de programación.
 ####   ● Link de la Actividad: 
 ####  [Actividad APE 2](https://drive.google.com/file/d/1az3psHxNKFRZoLhOaPKD6FGnFVDiAKwu/view?usp=sharing) (Informe)
 ####  [Actividad APE 2](https://drive.google.com/file/d/1AC0GLVwwTyyE2iL4_WjaKTkBOicGbr-x/view?usp=sharing) (Códigos)
+
+###    <p align="center"><strong>***APE - Aprendizaje Práctico Experimental***</strong></p>
+###    3. Debugging Challenge: “Cazadores de Bugs”:
+####   ● Objetivo: 
+Desarrollar habilidades de detección y corrección de errores en algoritmos secuenciales escritos en pseudocódigo, justificando cada ajuste y validando la solución modificada mediante la ejecución del algoritmo. 
+####   ● Link de la Actividad:
+####  [Actividad](https://drive.google.com/file/d/1b5K8L_Xz0mfpSBWobleR8IrI6j_PYyGJ/view?usp=sharing)
 
 ---
 
