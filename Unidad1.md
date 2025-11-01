@@ -62,7 +62,8 @@ La programación por bloques es una forma de crear instrucciones usando piezas q
 ####   ● Ejemplo: 
 
 
-https://github.com/user-attachments/assets/4c0fd32b-c1f6-4700-8c75-df219fad06ac
+
+https://github.com/user-attachments/assets/047b13cd-b20a-4115-8a0e-1eb14603fda4
 
 
 
