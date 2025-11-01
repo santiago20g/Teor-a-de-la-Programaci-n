@@ -11,11 +11,12 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 ####   ● Link de los Temas:
 ####  [Temas de la Unidad 1](https://drive.google.com/drive/folders/1LNvDggg_dmoPzyRiE9DEKXAz0TS23sIX?usp=sharing)
 
----
+###    1. Programación por Bloques
+####   ● Objetivo:  
+Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
+####   ● Link de la Actividad:
+####  [Actividad APE 1](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
 
-###    ***Actividades Realizadas en Toda la Unidad:***
-
-###    <p align="center"><strong>***ACD - Aprendizaje Contacto con el Docente***</strong></p>
 ###    1. Pseudocódigos Realizados en PSeInt
 ####   ● Objetivo:
 Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desarrollar habilidades de razonamiento y planificar soluciones a problemas.
@@ -30,26 +31,23 @@ Aprender a usar Visual Studio Code para escribir y probar programas en el lengua
 
 ---
 
-###    <p align="center"><strong>***APE - Aprendizaje Práctico Experimental***</strong></p>
-###    1. Programación por Bloques
-####   ● Objetivo:  
-Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
-####   ● Link de la Actividad:
-####  [Actividad APE 1](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
+###    ***Actividades Realizadas en Toda la Unidad:***
 
-###    2. Debugging Challenge: “Cazadores de Bugs”
+
+###    <p align="center"><strong>***APE - Aprendizaje Práctico Experimental***</strong></p>
+###    1. Debugging Challenge: “Cazadores de Bugs”
 ####   ● Objetivo: 
 Desarrollar habilidades de detección y corrección de errores en algoritmos secuenciales escritos en pseudocódigo, justificando cada ajuste y validando la solución modificada mediante la ejecución del algoritmo. 
 ####   ● Link de la Actividad:
-####  [Actividad APE 2](https://drive.google.com/file/d/1b5K8L_Xz0mfpSBWobleR8IrI6j_PYyGJ/view?usp=sharing)
+####  [Actividad](https://drive.google.com/file/d/1b5K8L_Xz0mfpSBWobleR8IrI6j_PYyGJ/view?usp=sharing)
 
-###    3. Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo 
+###    2. Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo 
 ####   ● Objetivo:  
 Familiarizar al estudiante con la herramienta PSeInt y desarrollar su primer algoritmo en pseudocódigo, aplicando estructuras secuenciales básicas. 
 ####   ● Link de la Actividad: 
-####  [Actividad APE 3](https://drive.google.com/file/d/1gTUPK-DCqlx4yilsj48_COZmy_HMS4ql/view?usp=sharing)
+####  [Actividad APE 1](https://drive.google.com/file/d/1gTUPK-DCqlx4yilsj48_COZmy_HMS4ql/view?usp=sharing)
 
-###    4. Del Diseño del Algoritmo con Estructuras Secuenciales a la Construcción del Programa.  
+###    3. Del Diseño del Algoritmo con Estructuras Secuenciales a la Construcción del Programa.  
 ####   ● Objetivos:  
 Desarrollar la capacidad de transformar un problema en una solución computacional. 
 
@@ -59,8 +57,8 @@ Validar la lógica del algoritmo mediante pruebas de escritorio.
 
 Implementar y ejecutar la solución en un lenguaje de programación. 
 ####   ● Link de la Actividad: 
-####  [Actividad APE 4](https://drive.google.com/file/d/1az3psHxNKFRZoLhOaPKD6FGnFVDiAKwu/view?usp=sharing) (Informe)
-####  [Actividad APE 4](https://drive.google.com/file/d/1AC0GLVwwTyyE2iL4_WjaKTkBOicGbr-x/view?usp=sharing) (Códigos)
+####  [Actividad APE 2](https://drive.google.com/file/d/1az3psHxNKFRZoLhOaPKD6FGnFVDiAKwu/view?usp=sharing) (Informe)
+####  [Actividad APE 2](https://drive.google.com/file/d/1AC0GLVwwTyyE2iL4_WjaKTkBOicGbr-x/view?usp=sharing) (Códigos)
 ---
 
 ###    <p align="center"><strong>***AA - Aprendizaje Autónomo***</strong></p>
