@@ -58,10 +58,8 @@ Aprender a usar Visual Studio Code para escribir y probar programas en el lengua
 ####   ● ¿Qué es?: 
 
 ####   ● Ejemplo: 
-ㅤ                                     <p align="center">
-  <img src="<img width="1255" height="987" alt="image" src="https://github.com/user-attachments/assets/3ee55255-5b08-450c-83c5-15da332bb8b1" />
-" alt="Logo UNL" width="300">
- </p>   
+<img width="1255" height="987" alt="image" src="https://github.com/user-attachments/assets/139c19c4-38a7-4aa9-9ca5-4614397d0445" />
+
 ####   ● Más Ejemplos:
 ####  [Ejemplos]( https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing)
 
