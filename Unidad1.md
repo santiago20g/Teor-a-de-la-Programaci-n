@@ -11,27 +11,33 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 ###    1. Algoritmos:
 ####   ● Objetivo: 
 
-####   ● Ejemplo: 
+####   ● ¿Qué es?: 
 
+####   ● Ejemplo: 
 
 
 ###    2. Pseudocódigos Realizados en PSeInt:
 ####   ● Objetivo:
 Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desarrollar habilidades de razonamiento y planificar soluciones a problemas.
+####   ● ¿Qué es?: 
+
 ####   ● Ejemplo: 
 
 ####   ● Más Ejemplos:
 ####  [Ejemplos](https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing)
 
 ###    3. Diagramas de Flujos:
-####   ● Objetivo:  
+####   ● Objetivo: 
+
+####   ● ¿Qué es?: 
 
 ####   ● Ejemplo: 
 
 
-
 ###    4. Pruebas de Escritorio:
 ####   ● Objetivo:  
+
+####   ● ¿Qué es?: 
 
 ####   ● Ejemplo: 
 
@@ -39,12 +45,20 @@ Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desar
 ###    5. Programación por Bloques:
 ####   ● Objetivo:  
 Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
+####   ● ¿Qué es?: 
+
+####   ● Ejemplo: 
+
 ####   ● Más Ejemplos:
 ####  [Ejemplos](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
 
 ###    6. Ejemplos de algoritmos con estructuras lineales/secuenciales:
 ####   ● Objetivo:
 Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean algoritmos con estructuras lineales/secuenciales que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código usando estructuras lineales/secuenciales.
+####   ● ¿Qué es?: 
+
+####   ● Ejemplo: 
+
 ####   ● Más Ejemplos:
 ####  [Ejemplos]( https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing)
 
