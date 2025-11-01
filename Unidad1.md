@@ -135,11 +135,13 @@ Las principales dificultades que se me presentaron en esta unidad son: poder apr
 ####   ● Conclusiones:
 Al usar pseudocódigo podemos entender cómo funciona un programa antes de escribir código real (Python, C, Java, etc..), este permite organizar las ideas y planificar los pasos para resolver un problema de manera clara y sin tantas complicaciones y asi poder desarrolar nuestro pensamiento logico y matemático.
 
-Al programar en C dentro de Visual Studio Code permite poner en práctica los conocimientos aprendidos en PSeInt y ver cómo funcionan los programas reales usando un lenguaje de programacion de alto nivel como lo es "C".
+Al programar en C dentro de Visual Studio Code permite poner en práctica los conocimientos aprendidos en PSeInt y ver cómo funcionan los programas reales usando algoritmos con estructuras lineales en un lenguaje de programacion de alto nivel como lo es "C".
 ####   ● Reflexiones:
 Usar seudocódigo ayuda a pensar con orden y lógica. Es una herramienta que enseña a razonar paso a paso, lo cual es muy útil para aprender a programar correctamente, no obstante la programacion por bloques tambies es muy importante para los estudiantes antes de adentrarse a la verdadera programacion usando un lenguaje de alto nivel.
 
-Al usar el lenguaje C nos ayuda a comprender la base de la programación. Con Visual Studio Code, se puede aprender de forma práctica y entender mejor cómo la computadora compila el lenguaje humano a lenguaje maquina para poder resolver problemas complejos.
+Es muy importante aprender a programar algoritmos con estructuras lineales usando el lenguaje de programación de alto nivel C, este lenguaje nos ayudará a comprender la base de la programación. 
+
+Con Visual Studio Code, se puede aprender de forma práctica y entender mejor cómo la computadora compila el lenguaje humano a lenguaje maquina para poder resolver problemas complejos.
 
 ---
 
