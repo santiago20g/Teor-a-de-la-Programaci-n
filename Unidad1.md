@@ -16,6 +16,7 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 ####   ● Ejemplo: 
 
 
+
 ###    2. Pseudocódigos Realizados en PSeInt:
 ####   ● Objetivo:
 Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desarrollar habilidades de razonamiento y planificar soluciones a problemas.
@@ -28,6 +29,7 @@ Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desar
 ####   ● Más Ejemplos:
 ####  [Ejemplos](https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing)
 
+
 ###    3. Diagramas de Flujos:
 ####   ● Objetivo: 
 
@@ -36,12 +38,14 @@ Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desar
 ####   ● Ejemplo: 
 
 
+
 ###    4. Pruebas de Escritorio:
 ####   ● Objetivo:  
 
 ####   ● ¿Qué es?: 
 
 ####   ● Ejemplo: 
+
 
 
 ###    5. Programación por Bloques:
@@ -54,6 +58,9 @@ Comprender y aplicar la programación por bloques para crear proyectos simples, 
 ####   ● Más Ejemplos:
 ####  [Ejemplos](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
 
+
+
+
 ###    6. Ejemplos de algoritmos con estructuras lineales/secuenciales:
 ####   ● Objetivo:
 Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean algoritmos con estructuras lineales/secuenciales que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código usando estructuras lineales/secuenciales.
@@ -61,7 +68,6 @@ Aprender a usar Visual Studio Code para escribir y probar programas en el lengua
 
 ####   ● Ejemplo: 
 <img width="2655" height="1976" alt="image" src="https://github.com/user-attachments/assets/3a3ae7a2-cf85-4404-b4b8-71dc570f5a26" />
-
 
 ####   ● Más Ejemplos:
 ####  [Ejemplos]( https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing)
