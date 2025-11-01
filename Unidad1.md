@@ -45,7 +45,7 @@ Un diagrama de flujo o flujograma es como un mapa estructurado que muestra los p
 ####   ● Objetivo:  
 Aprender a revisar paso a paso si una idea funciona correctamente, detectando errores y mejorando la forma en que se resuelven problemas usando las pruebas de escritorio.
 ####   ● ¿Qué son las Pruebas de Escritorio?: 
-Las pruebas de escritorio son para verificar si algo que planteaste sirve, realizando las instrucciones tu mismo, sin usar la computadora
+Las pruebas de escritorio son para verificar si algo que planteaste sirve, realizando las instrucciones tu mismo, sin usar la computadora.
 ####   ● Ejemplo: 
 <img width="1684" height="648" alt="image" src="https://github.com/user-attachments/assets/ed6bb2b5-8e66-4664-aaf2-3fb3d390513f" />
 
