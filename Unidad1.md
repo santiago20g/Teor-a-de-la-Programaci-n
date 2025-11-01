@@ -23,7 +23,7 @@ Un algoritmo es una secuencia de pasos ordenados de manera lógica y con fin, es
 ####   ● Objetivo:
 Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desarrollar habilidades de razonamiento y planificar soluciones a problemas.
 ####   ● ¿Qué es?: 
-Los pseudocódigos son una forma de escribir instrucciones paso a paso para resolver un problema sin usar un lenguaje de programaciónn de alto nivel, lo que ayuda a organizar las ideas antes de programar por ende ayuda a pensar con claridad, plantear soluciones a problemas y desarrolar habilidades de razonamiento.
+Los pseudocódigos es una forma de escribir instrucciones paso a paso para resolver un problema sin usar un lenguaje de programaciónn de alto nivel, lo que ayuda a organizar las ideas antes de programar por ende ayuda a pensar con claridad, plantear soluciones a problemas y desarrolar habilidades de razonamiento.
 ####   ● Ejemplo: 
 <img width="2167" height="1145" alt="image" src="https://github.com/user-attachments/assets/df143372-223c-4f70-8caf-dd3a5f59fb3b" />
 
