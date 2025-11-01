@@ -8,6 +8,9 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 ---
 
 ###    <p align="center"><strong>***Temas Vistos en la Unidad 1***</strong></p>
+
+
+
 ###    1. Algoritmos:
 ####   ● Objetivo: 
 
@@ -25,8 +28,8 @@ Los pseudocódigos son una forma de escribir instrucciones paso a paso para reso
 ####   ● Ejemplo: 
 <img width="2167" height="1145" alt="image" src="https://github.com/user-attachments/assets/df143372-223c-4f70-8caf-dd3a5f59fb3b" />
 
-
 ####  [Más Ejemplos:](https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing)
+
 
 
 ###    3. Diagramas de Flujos:
