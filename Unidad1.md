@@ -38,9 +38,9 @@ Comprender y aplicar la programación por bloques para crear proyectos simples, 
 ####   ● Más Ejemplos:
 ####  [Ejemplos](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
 
-###    6. Ejemplos de algoritmos con estructuras lineales/secuenciales. :
+###    6. Ejemplos de algoritmos con estructuras lineales/secuenciales:
 ####   ● Objetivo:
-Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean las instrucciones que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código.
+Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean algoritmos con estructuras lineales/secuenciales que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código usando estructuras lineales/secuenciales.
 ####   ● Más Ejemplos:
 ####  [Ejemplos]( https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing)
 
