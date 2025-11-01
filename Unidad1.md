@@ -21,13 +21,12 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 ####   ● Objetivo:
 Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desarrollar habilidades de razonamiento y planificar soluciones a problemas.
 ####   ● ¿Qué es?: 
-
+Los pseudocódigos son una forma de escribir instrucciones paso a paso para resolver un problema sin usar un lenguaje de programaciónn de alto nivel, lo que ayuda a organizar las ideas antes de programar por ende ayuda a pensar con claridad, plantear soluciones a problemas y desarrolar habilidades de razonamiento .
 ####   ● Ejemplo: 
 <img width="2167" height="1145" alt="image" src="https://github.com/user-attachments/assets/df143372-223c-4f70-8caf-dd3a5f59fb3b" />
 
 
-####   ● Más Ejemplos:
-####  [Ejemplos](https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing)
+####  [Más Ejemplos:](https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing)
 
 
 ###    3. Diagramas de Flujos:
@@ -57,10 +56,7 @@ Comprender y aplicar la programación por bloques para crear proyectos simples, 
 ####   ● Ejemplo: 
 <img width="2901" height="1551" alt="image" src="https://github.com/user-attachments/assets/ebe2971b-2478-40c4-8e3b-2840bc8ee7d0" />
 
-
-####   ● Más Ejemplos:
-####  [Ejemplos](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
-
+####  [Más Ejemplos:](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
 
 
 
@@ -72,8 +68,7 @@ Aprender a usar Visual Studio Code para escribir y probar programas en el lengua
 ####   ● Ejemplo: 
 <img width="2655" height="1976" alt="image" src="https://github.com/user-attachments/assets/3a3ae7a2-cf85-4404-b4b8-71dc570f5a26" />
 
-####   ● Más Ejemplos:
-####  [Ejemplos]( https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing)
+####  [Más Ejemplos:]( https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing)
 
 ---
 
