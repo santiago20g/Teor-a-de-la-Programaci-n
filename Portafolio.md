@@ -42,5 +42,5 @@ Link de la Unidad 1:
 
 ---
 
-### Volver a la Caratula
-[Unidad 1](README.md)
+### Volver a la Carátula
+[Carátula](README.md)
