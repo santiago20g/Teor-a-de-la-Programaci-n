@@ -24,7 +24,7 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 ####   ● Objetivo:
 Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desarrollar habilidades de razonamiento y planificar soluciones a problemas.
 ####   ● ¿Qué es?: 
-Los pseudocódigos son una forma de escribir instrucciones paso a paso para resolver un problema sin usar un lenguaje de programaciónn de alto nivel, lo que ayuda a organizar las ideas antes de programar por ende ayuda a pensar con claridad, plantear soluciones a problemas y desarrolar habilidades de razonamiento .
+Los pseudocódigos son una forma de escribir instrucciones paso a paso para resolver un problema sin usar un lenguaje de programaciónn de alto nivel, lo que ayuda a organizar las ideas antes de programar por ende ayuda a pensar con claridad, plantear soluciones a problemas y desarrolar habilidades de razonamiento.
 ####   ● Ejemplo: 
 <img width="2167" height="1145" alt="image" src="https://github.com/user-attachments/assets/df143372-223c-4f70-8caf-dd3a5f59fb3b" />
 
@@ -63,11 +63,11 @@ Comprender y aplicar la programación por bloques para crear proyectos simples, 
 
 
 
-###    6. Ejemplos de algoritmos con estructuras lineales/secuenciales:
+###    6. Algoritmos con estructuras lineales/secuenciales:
 ####   ● Objetivo:
 Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean algoritmos con estructuras lineales/secuenciales que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código usando estructuras lineales/secuenciales.
 ####   ● ¿Qué es?: 
-
+Un algoritmo con estructura lineal/secuencial es como una lista de pasos que se siguen uno tras otro, en el mismo orden en el que están escritos, sin saltarse ninguno, por ende cada paso depende del anterior.
 ####   ● Ejemplo: 
 <img width="2655" height="1976" alt="image" src="https://github.com/user-attachments/assets/3a3ae7a2-cf85-4404-b4b8-71dc570f5a26" />
 
