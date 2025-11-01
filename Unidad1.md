@@ -11,8 +11,7 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 ###    1. Algoritmos:
 ####   ● Objetivo:  
 
-####   ● Más Ejemplos:
-####  [Ejemplos]()
+
 
 ###    2. Pseudocódigos Realizados en PSeInt:
 ####   ● Objetivo:
@@ -23,14 +22,12 @@ Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desar
 ###    3. Diagramas de Flujos:
 ####   ● Objetivo:  
 
-####   ● Más Ejemplos:
-####  [Ejemplos]()
+
 
 ###    4. Pruebas de Escritorio:
 ####   ● Objetivo:  
 
-####   ● Más Ejemplos:
-####  [Ejemplos]()
+
 
 ###    5. Programación por Bloques:
 ####   ● Objetivo:  
