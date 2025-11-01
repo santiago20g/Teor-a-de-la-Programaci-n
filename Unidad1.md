@@ -11,20 +11,26 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 ###    1. Programación por Bloques
 ####   ● Objetivo:  
 Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
-####   ● Link de la Actividad:
-####  [Actividad APE 1](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
+####   ● Más Ejemplos:
+####  [Ejemplos](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
+
+###    1. Programación por Bloques
+####   ● Objetivo:  
+
+####   ● Más Ejemplos:
+####  [Ejemplos]()
 
 ###    2. Pseudocódigos Realizados en PSeInt
 ####   ● Objetivo:
 Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desarrollar habilidades de razonamiento y planificar soluciones a problemas.
-####   ● Link de la Actividad:
-####  [Actividad ACD 1](https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing)
+####   ● Más Ejemplos:
+####  [Ejemplos](https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing)
 
 ###    3. Códigos Realizados en Visual Studio Code Usando el Lenguaje de Programación C
 ####   ● Objetivo:
 Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean las instrucciones que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código.
-####   ● Link de la Actividad:
-####  [Actividad ACD 2]( https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing)
+####   ● Más Ejemplos:
+####  [Ejemplos]( https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing)
 
 ---
 
