@@ -54,4 +54,4 @@ Link de la Unidad 1:
 ---
 
 ### Volver a la Carátula
-<p align="center"><strong>[***Carátula***](README.md)</strong></p>
+<p align="center"><strong> [***Carátula***](README.md) </strong></p>
