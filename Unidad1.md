@@ -53,7 +53,7 @@ Las pruebas de escritorio son para verificar si algo que planteaste sirve, reali
 
 ###    5. Programación por Bloques:
 ####   ● Objetivo:  
-Comprender y aplicar la programación por bloques para crear proyectos simples, desarrollando el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
+Comprender como funciona una secuencia de pasos usando la programación por bloques, para poder desarrollar el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
 ####   ● ¿Qué es la Programación por Bloques?: 
 La programación por bloques es una forma de crear instrucciones usando piezas que se unen entre si, es decir, en lugar de escribir todo con palabras, se arrastran y juntan bloques que representan acciones. Esto sirve para aprender a programar de manera fácil y visualmente entendiendo como funciona una secuencia de pasos.
 ####   ● Ejemplo: 
