@@ -137,7 +137,7 @@ Al usar pseudocódigo podemos entender cómo funciona un programa antes de escri
 
 Al programar en C dentro de Visual Studio Code permite poner en práctica los conocimientos aprendidos en PSeInt y ver cómo funcionan los programas reales usando algoritmos con estructuras lineales en un lenguaje de programacion de alto nivel como lo es "C".
 ####   ● Reflexiones:
-Usar seudocódigo ayuda a pensar con orden y lógica. Es una herramienta que enseña a razonar paso a paso, lo cual es muy útil para aprender a programar correctamente, no obstante la programacion por bloques tambies es muy importante para los estudiantes antes de adentrarse a la verdadera programacion usando un lenguaje de alto nivel.
+Usar pseudocódigo ayuda a pensar con orden y lógica. Es una herramienta que enseña a razonar paso a paso, lo cual es muy útil para aprender a programar correctamente, no obstante la programacion por bloques tambies es muy importante para los estudiantes antes de adentrarse a la verdadera programacion usando un lenguaje de alto nivel.
 
 Es muy importante aprender a programar algoritmos con estructuras lineales usando el lenguaje de programación de alto nivel C, este lenguaje nos ayudará a comprender la base de la programación. 
 
