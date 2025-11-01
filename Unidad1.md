@@ -12,7 +12,7 @@ Elaborar un Portafolio Digital que registre y organice las actividades de la Uni
 ####   ● Objetivo:  
 
 ####   ● Más Ejemplos:
-####  [Ejemplos](Programación Por Bloqes.pdf)
+####  [Ejemplos](Programación_Por_Bloques.pdf)
 
 ###    2. Pseudocódigos Realizados en PSeInt:
 ####   ● Objetivo:
