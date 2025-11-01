@@ -9,6 +9,9 @@
 #      <p align="center"><strong>💻 Teoría de la Programación 💻</strong></p>
 
 
+###  Objetivo
+Elaborar un Portafolio Digital que registre y organice las actividades de la Unidad 1, integrando evidencias y reflexiones que consoliden los aprendizajes sobre algoritmos y programas con estructuras secuenciales. 
+
 ### 🧩 ***Unidad 1: Fundamentos de la Programación***
 📖 Conceptos básicos, algoritmos y estructuras de control.  
 Link de la Unidad 1:
