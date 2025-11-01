@@ -22,6 +22,7 @@ Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desar
 ####   ● ¿Qué es?: 
 
 ####   ● Ejemplo: 
+<img width="1078" height="572" alt="image" src="https://github.com/user-attachments/assets/4f641d6d-3955-475f-b725-1b8d95b7026b" />
 
 ####   ● Más Ejemplos:
 ####  [Ejemplos](https://drive.google.com/file/d/1NrMYE4EXYlgLL7zdEaCLqgwjRKWJ8fQT/view?usp=sharing)
