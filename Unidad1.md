@@ -114,8 +114,8 @@ Al usar el lenguaje C nos ayuda a comprender la base de la programación. Con Vi
 
 ---
 
-### ***Regresar al Inicio***
-###    <p align="center"><strong>[***Inicio***](Portafolio.md)</strong></p>
+### ***Volver***
+###    <p align="center"><strong>[***Volver hacia atras***](Portafolio.md)</strong></p>
 
 
 
