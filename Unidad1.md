@@ -57,7 +57,8 @@ Comprender como funciona una secuencia de pasos usando la programación por bloq
 ####   ● ¿Qué es la Programación por Bloques?: 
 La programación por bloques es una forma de crear instrucciones usando piezas que se unen entre si, es decir, en lugar de escribir todo con palabras, se arrastran y juntan bloques que representan acciones. Esto sirve para aprender a programar de manera fácil y visualmente entendiendo como funciona una secuencia de pasos.
 ####   ● Ejemplo: 
-<img width="2901" height="1551" alt="image" src="https://github.com/user-attachments/assets/ebe2971b-2478-40c4-8e3b-2840bc8ee7d0" />
+![Uploading image.png…]()
+
 
 ####  [Más Ejemplos:](https://drive.google.com/file/d/1SFFc93fz-CuPq_ROZXKlVUKzbtc2WTlx/view?usp=sharing)
 
